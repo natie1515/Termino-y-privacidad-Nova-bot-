@@ -1,29 +1,19 @@
+Términos de Servicio de Novabot
 
-Términos de Servicio para NovaBot-DS
+1. Aceptación de los Términos
+Al utilizar Novabot, aceptas estos términos. Si no estás de acuerdo, no uses el bot.
 
-1. Introducción
-   - Estos Términos de Servicio ("Términos") rigen el uso de NovaBot-DS ("Bot").
-   - Al usar el Bot, aceptas estos Términos. Si no estás de acuerdo con estos Términos, por favor no uses el Bot.
+2. Uso permitido
+Estás autorizado a usar Novabot en servidores de Discord, siempre que no se use para:
+- Actividades ilegales
+- Spam o contenido ofensivo
+- Violación de los Términos de Servicio de Discord
 
-2. Registro de Cuenta
-   - Para acceder a algunas funciones del Bot, debes registrar tu cuenta.
-   - Asegúrate de que la información de tu cuenta sea precisa, actualizada y segura.
+3. Suspensión o bloqueo
+Nos reservamos el derecho de suspender el acceso al bot si detectamos uso indebido o abuso.
 
-3. Uso
-   - El Bot debe usarse únicamente en cumplimiento con los Términos de Servicio y las Normas de la Comunidad de Discord.
-   - No puedes usar el Bot para actividades ilegales, acoso o spam.
+4. Limitación de responsabilidad
+Novabot se ofrece “tal cual” sin garantías. No nos hacemos responsables por daños causados por errores, caídas o mal uso del bot.
 
-4. Recopilación de Datos
-   - El Bot puede recopilar datos de usuario según sea necesario para su funcionamiento.
-   - Los datos del usuario se almacenarán cumpliendo con las leyes de privacidad aplicables.
-
-5. Limitación de Responsabilidad
-   - Los desarrolladores del Bot no serán responsables de daños causados por el uso del Bot, incluyendo pérdida de datos o tiempo de inactividad del servidor.
-
-6. Cambios en los Términos
-   - Los desarrolladores se reservan el derecho de modificar estos Términos en cualquier momento. Serás notificado de los cambios significativos.
-
-7. Contacto
-   - Si tienes alguna pregunta, no dudes en contactar a los desarrolladores del Bot a través de los canales apropiados.
-
-Al usar el Bot, aceptas cumplir con estos Términos.
+5. Cambios en los Términos
+Podemos modificar estos Términos en cualquier momento. El uso continuado del bot después de los cambios implica aceptación
