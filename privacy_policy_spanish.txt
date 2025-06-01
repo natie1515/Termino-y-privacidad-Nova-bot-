@@ -1,0 +1,22 @@
+
+Política de Privacidad para NovaBot-DS
+
+1. Recopilación de Información
+   - El Bot recopila datos de usuario, incluyendo ID de usuario de Discord y nombre de usuario, con el fin de proporcionar servicios del Bot.
+   - La información personal se recopila solo cuando es necesario para las funciones del Bot.
+
+2. Uso de los Datos
+   - Los datos recopilados se usarán para mejorar la experiencia del usuario y proporcionar características del Bot.
+   - Los datos no se compartirán con terceros, salvo que lo requiera la ley.
+
+3. Retención de Datos
+   - Los datos de los usuarios se retendrán mientras sea necesario para las operaciones del Bot.
+   - Los usuarios pueden solicitar la eliminación de sus datos contactando a los desarrolladores del Bot.
+
+4. Seguridad
+   - Los desarrolladores del Bot toman medidas razonables para proteger los datos de los usuarios contra el acceso no autorizado.
+
+5. Cambios en la Política de Privacidad
+   - Los desarrolladores del Bot pueden actualizar esta Política de Privacidad en cualquier momento. Los usuarios serán notificados de los cambios significativos.
+
+Al usar el Bot, consientes la recopilación y el uso de tus datos como se describe en esta Política de Privacidad.

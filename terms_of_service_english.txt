@@ -1,0 +1,29 @@
+
+Terms of Service for NovaBot-DS
+
+1. Introduction
+   - These Terms of Service ("Terms") govern your use of the NovaBot-DS Discord bot ("Bot").
+   - By using the Bot, you agree to these Terms. If you do not agree with these Terms, please do not use the Bot.
+
+2. Account Registration
+   - To access some Bot features, you must register your account.
+   - Ensure your account information is accurate, up-to-date, and secure.
+
+3. Usage
+   - The Bot should be used only in compliance with Discord's Terms of Service and Community Guidelines.
+   - You may not use the Bot for illegal activities, harassment, or spamming.
+
+4. Data Collection
+   - The Bot may collect user data as necessary for its operation.
+   - User data will be stored in compliance with applicable privacy laws.
+
+5. Limitation of Liability
+   - The Bot's developers are not liable for any damages caused by using the Bot, including data loss or server downtime.
+
+6. Changes to Terms
+   - The developers reserve the right to modify these Terms at any time. You will be notified of significant changes.
+
+7. Contact
+   - If you have any questions, feel free to contact the Bot developers through the appropriate channels.
+
+By using the Bot, you agree to abide by these Terms.
